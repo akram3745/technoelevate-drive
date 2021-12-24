@@ -1,0 +1,55 @@
+2021-12-24 11:06:47,196 [main] [36mc.t.u.UploadFormControllerTest[0;39m - Starting UploadFormControllerTest using Java 15.0.2 on LAPTOP-HVK7614P with PID 16192 (started by ANAND in D:\BookMyDoctor\technoelevate-uploadform) 
+2021-12-24 11:06:47,222 [main] [36mc.t.u.UploadFormControllerTest[0;39m - No active profile set, falling back to default profiles: default 
+2021-12-24 11:06:51,818 [main] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2021-12-24 11:06:52,252 [main] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 401 ms. Found 2 JPA repository interfaces. 
+2021-12-24 11:06:55,467 [main] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-12-24 11:06:55,710 [main] [36mo.h.Version[0;39m - HHH000412: Hibernate ORM core version 5.6.1.Final 
+2021-12-24 11:06:57,374 [main] [36mo.h.a.c.Version[0;39m - HCANN000001: Hibernate Commons Annotations {5.1.2.Final} 
+2021-12-24 11:06:58,220 [main] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Starting... 
+2021-12-24 11:06:58,997 [main] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Start completed. 
+2021-12-24 11:06:59,106 [main] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2021-12-24 11:07:02,905 [main] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2021-12-24 11:07:02,930 [main] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 11:07:08,094 [main] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2021-12-24 11:07:11,252 [main] [36mc.t.u.UploadFormControllerTest[0;39m - Started UploadFormControllerTest in 26.005 seconds (JVM running for 36.717) 
+2021-12-24 11:07:12,673 [main] [36mo.s.m.w.MockServletContext[0;39m - Initializing Spring TestDispatcherServlet '' 
+2021-12-24 11:07:12,674 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Initializing Servlet '' 
+2021-12-24 11:07:12,676 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Completed initialization in 1 ms 
+2021-12-24 11:07:13,394 [main] [36mo.s.m.w.MockServletContext[0;39m - Initializing Spring TestDispatcherServlet '' 
+2021-12-24 11:07:13,396 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Initializing Servlet '' 
+2021-12-24 11:07:13,397 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Completed initialization in 1 ms 
+2021-12-24 11:07:13,807 [main] [36mo.s.m.w.MockServletContext[0;39m - Initializing Spring TestDispatcherServlet '' 
+2021-12-24 11:07:13,825 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Initializing Servlet '' 
+2021-12-24 11:07:13,827 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Completed initialization in 0 ms 
+2021-12-24 11:07:14,101 [SpringApplicationShutdownHook] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 11:07:14,169 [SpringApplicationShutdownHook] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Shutdown initiated... 
+2021-12-24 11:07:14,218 [SpringApplicationShutdownHook] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Shutdown completed. 
+2021-12-24 11:10:08,180 [main] [36mc.t.u.UploadFormControllerTest[0;39m - Starting UploadFormControllerTest using Java 15.0.2 on LAPTOP-HVK7614P with PID 7720 (started by ANAND in D:\BookMyDoctor\technoelevate-uploadform) 
+2021-12-24 11:10:08,185 [main] [36mc.t.u.UploadFormControllerTest[0;39m - No active profile set, falling back to default profiles: default 
+2021-12-24 11:10:12,687 [main] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Bootstrapping Spring Data JPA repositories in DEFAULT mode. 
+2021-12-24 11:10:13,002 [main] [36mo.s.d.r.c.RepositoryConfigurationDelegate[0;39m - Finished Spring Data repository scanning in 286 ms. Found 2 JPA repository interfaces. 
+2021-12-24 11:10:16,214 [main] [36mo.h.j.i.u.LogHelper[0;39m - HHH000204: Processing PersistenceUnitInfo [name: default] 
+2021-12-24 11:10:16,798 [main] [36mo.h.Version[0;39m - HHH000412: Hibernate ORM core version 5.6.1.Final 
+2021-12-24 11:10:17,469 [main] [36mo.h.a.c.Version[0;39m - HCANN000001: Hibernate Commons Annotations {5.1.2.Final} 
+2021-12-24 11:10:18,274 [main] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Starting... 
+2021-12-24 11:10:18,766 [main] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Start completed. 
+2021-12-24 11:10:18,862 [main] [36mo.h.d.Dialect[0;39m - HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect 
+2021-12-24 11:10:21,740 [main] [36mo.h.e.t.j.p.i.JtaPlatformInitiator[0;39m - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform] 
+2021-12-24 11:10:21,756 [main] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Initialized JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 11:10:26,466 [main] [36mo.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration[0;39m - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning 
+2021-12-24 11:10:30,231 [main] [36mc.t.u.UploadFormControllerTest[0;39m - Started UploadFormControllerTest in 23.902 seconds (JVM running for 30.372) 
+2021-12-24 11:10:32,045 [main] [36mo.s.m.w.MockServletContext[0;39m - Initializing Spring TestDispatcherServlet '' 
+2021-12-24 11:10:32,046 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Initializing Servlet '' 
+2021-12-24 11:10:32,048 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Completed initialization in 0 ms 
+2021-12-24 11:10:32,629 [main] [36mo.s.w.s.PageNotFound[0;39m - No mapping for GET /api/v1/uploadform/getDrive/20 
+2021-12-24 11:10:32,816 [main] [36mo.s.m.w.MockServletContext[0;39m - Initializing Spring TestDispatcherServlet '' 
+2021-12-24 11:10:32,843 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Initializing Servlet '' 
+2021-12-24 11:10:32,844 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Completed initialization in 0 ms 
+2021-12-24 11:10:32,884 [main] [36mo.s.w.s.PageNotFound[0;39m - No mapping for POST /api/v1/uploadform/addForm 
+2021-12-24 11:10:33,041 [main] [36mo.s.m.w.MockServletContext[0;39m - Initializing Spring TestDispatcherServlet '' 
+2021-12-24 11:10:33,042 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Initializing Servlet '' 
+2021-12-24 11:10:33,043 [main] [36mo.s.t.w.s.TestDispatcherServlet[0;39m - Completed initialization in 0 ms 
+2021-12-24 11:10:33,079 [main] [36mo.s.w.s.PageNotFound[0;39m - No mapping for DELETE /api/v1/uploadform/delete/20 
+2021-12-24 11:10:33,375 [SpringApplicationShutdownHook] [36mo.s.o.j.LocalContainerEntityManagerFactoryBean[0;39m - Closing JPA EntityManagerFactory for persistence unit 'default' 
+2021-12-24 11:10:33,483 [SpringApplicationShutdownHook] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Shutdown initiated... 
+2021-12-24 11:10:33,612 [SpringApplicationShutdownHook] [36mc.z.h.HikariDataSource[0;39m - HikariPool-1 - Shutdown completed. 
